@@ -1,0 +1,9 @@
+[
+    {
+        "id": "file",
+        "children":
+        [
+            { "caption": "Close All Tabs / Files", "command": "close_without_saving" }
+        ]
+    }
+]
