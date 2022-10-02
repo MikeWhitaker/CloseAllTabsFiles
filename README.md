@@ -1,6 +1,6 @@
 # Close All Tabs / Files
 
-Closes all tabs and of files.
+Closes all tabs and files.
 
 # Commands
 
